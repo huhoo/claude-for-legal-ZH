@@ -45,7 +45,7 @@ WorkBuddy 的 MCP 配置位于 `~/.workbuddy/mcp.json`（标准 `mcpServers` 格
 
 ## 可用原始技能
 
-`brief-section-drafter`、`chronology`、`claim-chart`、`cold-start-interview`、`customize`、`demand-draft`、`demand-intake`、`demand-received`、`deposition-prep`、`legal-hold`、`matter-briefing`、`matter-close`、`matter-intake`、`matter-update`、`matter-workspace`、`oc-status`、`portfolio-status`、`privilege-log-review`、`subpoena-triage`
+`brief-section-drafter`、`chronology`、`claim-chart`、`cold-start-interview`、`customize`、`demand-draft`、`demand-intake`、`demand-received`、`deposition-prep`、`legal-hold`、`matter-briefing`、`matter-close`、`matter-intake`、`matter-update`、`matter-workspace`、`oc-status`、`parse-source`、`portfolio-status`、`privilege-log-review`、`subpoena-triage`
 
 ## 法律输出规则
 

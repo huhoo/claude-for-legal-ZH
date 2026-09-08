@@ -45,7 +45,7 @@ If the active dsh profile mounts the `chineselaw` or `yuandian` MCP servers (see
 
 ## Available Original Skills
 
-`brief-section-drafter`, `chronology`, `claim-chart`, `cold-start-interview`, `customize`, `demand-draft`, `demand-intake`, `demand-received`, `deposition-prep`, `legal-hold`, `matter-briefing`, `matter-close`, `matter-intake`, `matter-update`, `matter-workspace`, `oc-status`, `portfolio-status`, `privilege-log-review`, `subpoena-triage`
+`brief-section-drafter`, `chronology`, `claim-chart`, `cold-start-interview`, `customize`, `demand-draft`, `demand-intake`, `demand-received`, `deposition-prep`, `legal-hold`, `matter-briefing`, `matter-close`, `matter-intake`, `matter-update`, `matter-workspace`, `oc-status`, `parse-source`, `portfolio-status`, `privilege-log-review`, `subpoena-triage`
 
 ## Legal Output Rules
 
